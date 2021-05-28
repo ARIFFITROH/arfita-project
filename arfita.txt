@@ -1,3 +1,4 @@
 arfita resolusi
 - konsisten membuat konten 
 - membuat platform untuk pengelolaan
+- tambahan file
